@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
 
 #left{
-    margin-top: 15px;
+    margin-top: 13px;
     margin-left: 33px;
+    /* float: left; */
+}
+
+#right{
+    margin-left: 1150px;
+    margin-top: 5px;
 }
 
 
